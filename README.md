@@ -2,7 +2,7 @@
 
 This is a SPA using React which shows a list of rooms, details of available seats and also allows users to book the seats. This project is scaffolded with [Vite](https://vitejs.dev/guide/why.html).
 
-[Click here to check out the live version](https://book-a-room-ewjm92wmn-dung-phan.vercel.app/rooms)
+[Click here to check out the live version](booking-system-lime-one.vercel.app)
 
 ### Installation
 
